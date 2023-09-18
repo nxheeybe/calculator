@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\1213123\1213123\bin\Debug\1213123.exe.config
+C:\Users\ASUS\source\repos\1213123\1213123\bin\Debug\1213123.exe
+C:\Users\ASUS\source\repos\1213123\1213123\bin\Debug\1213123.pdb
+C:\Users\ASUS\source\repos\1213123\1213123\obj\Debug\1213123.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\1213123\1213123\obj\Debug\1213123.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\1213123\1213123\obj\Debug\1213123.exe
+C:\Users\ASUS\source\repos\1213123\1213123\obj\Debug\1213123.pdb
